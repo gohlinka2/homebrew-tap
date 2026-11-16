@@ -1,8 +1,8 @@
 class Devlease < Formula
   desc "Throwaway Android emulators and iOS simulators for parallel AI coding agents"
   homepage "https://github.com/gohlinka2/devlease"
-  url "https://github.com/gohlinka2/devlease/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "1036201ca5934e8f3eddd590bb7ddc7ecf39fcec3f29b1009dea97eed34c009c"
+  url "https://github.com/gohlinka2/devlease/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "6abb689b70467cd96acc8be1878c887d63058b7d32cebd4bfe1cdea7f9e5790e"
   license "MIT"
 
   # Python 3 comes with the Xcode command line tools, which Homebrew requires anyway.
